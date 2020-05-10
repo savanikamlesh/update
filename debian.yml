@@ -1,6 +1,5 @@
 - hosts: all
   remote_user: qb
-  ansible_ssh_port: 4747
   become: true
   become_user: root
   
