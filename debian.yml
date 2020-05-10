@@ -1,5 +1,5 @@
 - hosts: all
-  remote_user: qb
+  #remote_user: qb
   become: true
   become_user: root
   
